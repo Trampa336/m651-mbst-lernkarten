@@ -1,0 +1,11 @@
+[
+  {
+    "id": "ki-001",
+    "topic": "KI / Maschinelles Lernen",
+    "subtopic": "Grundbegriffe",
+    "priority": "A",
+    "type": "open",
+    "question": "Was ist Lernen?",
+    "answer": "**Lernen ist die nachhaltige Veränderung von Wissen oder Verhalten.**\n\nIm Kontext des maschinellen Lernens: ein System verbessert sein Verhalten/seine Vorhersagen auf Basis von Erfahrung (Daten), ohne explizit dafür programmiert zu werden.\n\n*Klausurfrage 21 · 4 Punkte.*"
+  }
+]

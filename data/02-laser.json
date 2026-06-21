@@ -1,0 +1,94 @@
+[
+  {
+    "id": "laser-001",
+    "topic": "Laser",
+    "subtopic": "Grundlagen",
+    "priority": "A",
+    "type": "flashcard",
+    "question": "Was heißt das Akronym LASER?",
+    "answer": "**L**ight **A**mplification by **S**timulated **E**mission of **R**adiation.\n\n(Lichtverstärkung durch stimulierte Emission von Strahlung.)\n\n*Klausurfrage 10 · 2 Punkte.*"
+  },
+  {
+    "id": "laser-002",
+    "topic": "Laser",
+    "subtopic": "Eigenschaften",
+    "priority": "A",
+    "type": "open",
+    "question": "Welche zwei wesentlichen Eigenschaften hat Laserlicht?",
+    "answer": "- **Monochromatisch und kohärent** (eine Wellenlänge, feste Phasenbeziehung)\n- **Hohe Energiedichte**\n\nWeiteres Kennzeichen: geringe Strahldivergenz (gut bündelbar).\n\n*Klausurfrage 11 · 4 Punkte.*"
+  },
+  {
+    "id": "laser-003",
+    "topic": "Laser",
+    "subtopic": "Anregungsmechanismen",
+    "priority": "A",
+    "type": "open",
+    "question": "Nennen Sie die drei Anregungsmechanismen für Licht / LASER.",
+    "answer": "1. **Optische** Anregung\n2. **Chemische** Anregung\n3. **Elektrische** Anregung\n\n*Klausurfrage 12 · 6 Punkte.*"
+  },
+  {
+    "id": "laser-004",
+    "topic": "Laser",
+    "subtopic": "Anregungsmechanismen",
+    "priority": "A",
+    "type": "open",
+    "question": "Beschreiben Sie zwei der drei Anregungsmechanismen (optisch / chemisch / elektrisch).",
+    "answer": "**Elektrische Anregung:**\nDurch einen Strom von Elektronen wird das Anregungsmedium dazu gebracht, dass Teilchen von einem Energieniveau auf ein anderes (höheres) springen. Beim Zurückfallen werden **Photonen freigesetzt**, die als Licht-/Laserstrahlung wirken.\n\n**Optische Anregung:**\nDas Anregungsmedium wird durch **Licht** (z. B. Blitzlampe oder Pumplaser) bestrahlt. Die Photonen heben Teilchen auf ein höheres Energieniveau (Pumpen → Besetzungsinversion).\n\n**Chemische Anregung:**\nDie zur Besetzungsinversion nötige Energie stammt aus einer **chemischen Reaktion** im Lasermedium.\n\n*Klausurfrage 13 · 8 Punkte.*"
+  },
+  {
+    "id": "laser-005",
+    "topic": "Laser",
+    "subtopic": "Vier-Niveau-Laser",
+    "priority": "A",
+    "type": "open",
+    "question": "Vier-Energieniveau-Laser: a) Skizzieren Sie das Termschema, b) bezeichnen Sie Pump- und Laserübergang, c) kennzeichnen Sie die strahlungslosen Übergänge.",
+    "answer": "**Termschema (4 Niveaus, von unten nach oben E0–E3):**\n- **E0** Grundzustand\n- **E1** unteres Laserniveau\n- **E2** oberes Laserniveau (metastabil)\n- **E3** Pumpniveau\n\n**a/b) Übergänge:**\n- **Pumpübergang:** E0 → E3 (Energiezufuhr/Pumpen)\n- **Laserübergang:** E2 → E1 (hier wird die Laserstrahlung emittiert)\n\n**c) Strahlungslose Übergänge** (keine Photonen-Emission, Energie als Wärme):\n- E3 → E2 (schnelle Relaxation ins obere Laserniveau)\n- E1 → E0 (schnelle Entleerung des unteren Laserniveaus)\n\n*Diese strahlungslosen Übergänge halten die Besetzungsinversion aufrecht.*\n\n*Klausurfrage 14 a–c · 10 von 14 Punkten.*"
+  },
+  {
+    "id": "laser-006",
+    "topic": "Laser",
+    "subtopic": "Emission",
+    "priority": "A",
+    "type": "open",
+    "question": "Beschreiben Sie den Unterschied zwischen spontaner und induzierter (stimulierter) Emission.",
+    "answer": "- **Spontane Emission:** erfolgt **ohne äußere Energiezufuhr** – ein angeregtes Teilchen fällt von selbst (zufällig in Zeitpunkt, Richtung und Phase) zurück und emittiert ein Photon.\n- **Induzierte (stimulierte) Emission:** wird **durch ein einfallendes Photon ausgelöst** (Energiezufuhr). Das neue Photon ist mit dem auslösenden **identisch** in Wellenlänge, Richtung und Phase → **kohärente** Lichtverstärkung (Grundprinzip des Lasers).\n\n*Klausurfrage 14 d · 4 Punkte.*"
+  },
+  {
+    "id": "laser-007",
+    "topic": "Laser",
+    "subtopic": "Spektralbereiche & Lasertypen",
+    "priority": "A",
+    "type": "open",
+    "question": "Ordnen Sie die Spektralbereiche (UV, sichtbares Licht, IR) und die Lasertypen den Wellenlängen zu.",
+    "answer": "**IR (Infrarot, > 780 nm):**\n- 10 µm → **CO₂-Laser**\n- 1,06 µm → **Nd:YAG-Laser**\n- (2,9 µm / 1,9 µm – IR-Bereich)\n\n**Sichtbares Licht (≈ 380–780 nm):**\n- 514 nm → **Argon-Laser** (grün)\n- ≈ 630–940 nm → **Halbleiterlaser** (Diode)\n\n**UV (Ultraviolett, < 380 nm):**\n- 351 / 308 / 248 / 193 / 157 nm → **Excimer-Laser**\n- (Helium-/Edelgaslaser im kurzen Bereich)\n\n*Eselsbrücke: lange Wellenlänge = IR (CO₂), kurze = UV (Excimer).*\n\n*Klausurfrage 15 · 9 Punkte (3 Bereiche + 6 Lasertypen).*"
+  },
+  {
+    "id": "laser-008",
+    "topic": "Laser",
+    "subtopic": "Aufbau",
+    "priority": "A",
+    "type": "open",
+    "question": "Zeichnen Sie den prinzipiellen Aufbau eines Lasers und beschriften Sie die wesentlichen Komponenten.",
+    "answer": "Wesentliche Komponenten:\n- **Aktives Medium / Anregungsmedium** (Lasermedium)\n- **Energiezufuhr (Pumpquelle)** → liefert die Emissionsenergie\n- **Resonator** aus zwei Spiegeln:\n  - **Hochreflektierender Spiegel** (Rückseite, ggf. mit Abwärme)\n  - **Teildurchlässiger Spiegel** (Auskoppelspiegel) → hier tritt der **Laserstrahl** aus\n\n*Ablauf: Pumpenergie → Besetzungsinversion im aktiven Medium → stimulierte Emission → Verstärkung im Resonator → Auskopplung des Laserstrahls.*\n\n*Klausurfrage 16 · 6 Punkte.*"
+  },
+  {
+    "id": "laser-009",
+    "topic": "Laser",
+    "subtopic": "Optik",
+    "priority": "A",
+    "type": "open",
+    "question": "Beschriften Sie die optische Skizze der Strahlfokussierung mit einer Linse.",
+    "answer": "Zu beschriftende Größen:\n- **Laserstrahl-Durchmesser** (Strahldurchmesser vor der Linse)\n- **Linse** (Fokussieroptik)\n- **Brennweite** (Abstand Linse → Fokus)\n- **Brechwinkel** (Konvergenzwinkel des fokussierten Strahls)\n\n*Klausurfrage 17 · 6 Punkte.*"
+  },
+  {
+    "id": "laser-010",
+    "topic": "Laser",
+    "subtopic": "Spektralbereiche & Lasertypen",
+    "priority": "B",
+    "type": "mc",
+    "question": "Welcher Laser arbeitet bei einer Wellenlänge von ca. 10 µm (fernes Infrarot)?",
+    "options": ["Excimer-Laser", "Argon-Laser", "CO₂-Laser", "Nd:YAG-Laser"],
+    "answerIndex": 2,
+    "answer": "Der **CO₂-Laser** emittiert im fernen Infrarot bei **≈ 10,6 µm** – die längste der typischen Laserwellenlängen (vgl. Frage 15)."
+  }
+]

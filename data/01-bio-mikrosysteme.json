@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bio-001",
+    "topic": "Bio-Mikrosysteme",
+    "subtopic": "Größenordnungen",
+    "priority": "A",
+    "type": "open",
+    "question": "Nennen Sie Beispiele für die Größenordnung Mikrometer (µm).",
+    "answer": "Typische Objekte im µm-Bereich:\n- **Menschliches Haar** (≈ 50–70 µm Durchmesser)\n- **Menschliche (Haut-)Zellen** (≈ 10–30 µm)\n\nWeitere mögliche Beispiele: rote Blutkörperchen (≈ 7 µm), Bakterien (≈ 1–5 µm), Nebeltröpfchen.\n\n*Klausurfrage 1 · 2 Punkte.*"
+  },
+  {
+    "id": "bio-002",
+    "topic": "Bio-Mikrosysteme",
+    "subtopic": "Mikrophysiologische Systeme (MPS)",
+    "priority": "A",
+    "type": "open",
+    "question": "Nennen Sie mindestens 3 Motivationen für die Entwicklung von mikrophysiologischen Systemen (MPS).",
+    "answer": "- Sie können **Tierversuche ersetzen** (Reduktion/Ersatz von Tiermodellen).\n- Sie bilden **Zell-Zell- bzw. Organ-Organ-Beziehungen besser ab** als andere (klassische) Verfahren.\n- Sie sind **online überwachbar** (kontinuierliches Monitoring während der Kultivierung).\n- Sie ermöglichen Versuche **in vitro** unter realitätsnahen Bedingungen.\n- **Geringes Zell-zu-Medium-Verhältnis** → physiologischere Bedingungen.\n\n*Klausurfrage 2 · 6 Punkte.*"
+  },
+  {
+    "id": "bio-003",
+    "topic": "Bio-Mikrosysteme",
+    "subtopic": "Mikrophysiologische Systeme (MPS)",
+    "priority": "A",
+    "type": "open",
+    "question": "Welche Anforderungen bestehen an mikrophysiologische Systeme?",
+    "answer": "- Sie sollen **online überwachbar** sein.\n- Sie sollen eine **pulsierende Mikrofluid-Zirkulation** beinhalten (Nachbildung des Blutkreislaufs).\n- Sie sollen ein **geringes Zell-zu-Medium-Verhältnis** aufweisen.\n\n*Klausurfrage 3 · 4 Punkte.*"
+  },
+  {
+    "id": "bio-004",
+    "topic": "Bio-Mikrosysteme",
+    "subtopic": "Herstellungstechnologiekette",
+    "priority": "A",
+    "type": "open",
+    "question": "Für die Herstellung von Mikrosystemen wird eine Technologiekette (Konzept–Design–Simulation–Konstruktion–Prototyping) eingesetzt. Ergänzen Sie die vier Herstellungsverfahren mit je mind. 3 Technologien.",
+    "answer": "**1. Rapid Tooling / Replication**\n- Gepulste Laserbearbeitung\n- CNC-Fräsen\n- Spritzguss / Heißprägen (Abformung)\n\n**2. Mikrostrukturierung**\n- µ-LIP-Verfahren (Laser-induzierte Strukturierung)\n- Laser-Oberflächenstrukturierung\n- Ätzverfahren (nass-/trockenchemisch)\n\n**3. Additive Verfahren**\n- Bio-3D-Druck\n- Stereolithografie\n- 2-Photonen-Polymerisation\n\n**4. Mechanische Prozesse**\n- Laminieren\n- Bonden / Fügen\n- Schneiden / Stanzen\n\n*Klausurfrage 4 · 9 Punkte (mind. 3 je Verfahren).*"
+  },
+  {
+    "id": "bio-005",
+    "topic": "Bio-Mikrosysteme",
+    "subtopic": "Lab-on-a-Chip",
+    "priority": "A",
+    "type": "open",
+    "question": "Universal Lab-on-a-Chip-Plattform: Nennen Sie die möglichen biologischen Materialien (Input), die Steuerung/Überwachung sowie die Auswertesysteme/medizinischen Auswertetools (Output).",
+    "answer": "**Biologische Materialien (Input):**\n- Primary cells (inkl. **Stem cells / iPS**, **DNA**)\n- Cell lines (Zelllinien)\n- Tissue models (z. B. **Spheroids**)\n- **Proteine**\n\n**Online control / Online monitoring:**\n- Online control der Zirkulation\n- Online monitoring: **pH-Wert**, **O₂-Wert**\n\n**Auswertesysteme / med. Auswertetools (Output):**\n- **Live Cell Imaging**\n- **Gen-Expression und Regulation**\n- **Bio-Konjugation**\n\n*Zentrale Funktion: dynamische Langzeit-Kultivierung verschiedener Gewebe in einem gemeinsamen Zirkulationssystem.*\n\n*Klausurfrage 5 · 12 Punkte.*"
+  },
+  {
+    "id": "bio-006",
+    "topic": "Bio-Mikrosysteme",
+    "subtopic": "Aufbau MPS",
+    "priority": "A",
+    "type": "open",
+    "question": "Beschriften Sie die wesentlichen Komponenten eines mikrophysiologischen Systems (Chip).",
+    "answer": "Die drei zu beschriftenden Hauptkomponenten:\n- **Pumpe** – erzeugt die (pulsierende) Mikrofluid-Zirkulation\n- **Reservoir** – Speicher für das Kulturmedium\n- **Sensor** – Online-Überwachung (z. B. pH, O₂)\n\n*Klausurfrage 6 · 4 Punkte (Fraunhofer-Chip).*"
+  },
+  {
+    "id": "bio-007",
+    "topic": "Bio-Mikrosysteme",
+    "subtopic": "Online-Monitoring",
+    "priority": "A",
+    "type": "mc",
+    "question": "Welche Parameter werden beim Online-Monitoring eines Lab-on-a-Chip typischerweise überwacht?",
+    "options": ["Spannung und Stromstärke", "pH-Wert und O₂-Wert", "Drehzahl und Vorschub", "Wellenlänge und Frequenz"],
+    "answerIndex": 1,
+    "answer": "**pH-Wert und O₂-Wert** – die zentralen Größen zur Überwachung der Zellkultur im Online-Monitoring (vgl. Frage 5)."
+  }
+]

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MBST Klotzbach – Lernkarten</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mikro- &amp; Biosystemtechnik – Lernkarten</h1>
+    <p class="subtitle">APL-SLK · M651/M519 · Prof. Klotzbach · Bio-Mikrosysteme · Laser · KI</p>
+  </header>
+
+  <section class="controls">
+    <div class="filters">
+      <label>Thema
+        <select id="filter-topic">
+          <option value="all">Alle Themen</option>
+        </select>
+      </label>
+      <label>Priorität
+        <select id="filter-priority">
+          <option value="all">A + B</option>
+          <option value="A">Nur A-Wissen</option>
+          <option value="B">Nur B-Wissen</option>
+        </select>
+      </label>
+      <label>Typ
+        <select id="filter-type">
+          <option value="all">Alle Typen</option>
+          <option value="open">Offene Frage</option>
+          <option value="mc">Multiple Choice</option>
+          <option value="flashcard">Karteikarte</option>
+        </select>
+      </label>
+      <label class="checkbox">
+        <input type="checkbox" id="filter-review">
+        Nur „nicht gewusst“ wiederholen
+      </label>
+    </div>
+    <div class="actions">
+      <button id="btn-shuffle" type="button">🔀 Mischen</button>
+      <button id="btn-reset" type="button" class="ghost">↺ Fortschritt zurücksetzen</button>
+    </div>
+  </section>
+
+  <section class="stats">
+    <div class="stat-bar">
+      <div class="stat-fill sicher" id="bar-sicher"></div>
+      <div class="stat-fill nicht" id="bar-nicht"></div>
+    </div>
+    <div class="stat-numbers">
+      <span class="s-sicher">✓ <strong id="count-sicher">0</strong> sicher</span>
+      <span class="s-nicht">✗ <strong id="count-nicht">0</strong> nicht gewusst</span>
+      <span class="s-offen">• <strong id="count-offen">0</strong> offen</span>
+      <span class="s-total" id="count-total"></span>
+    </div>
+  </section>
+
+  <main id="card-area">
+    <article class="card" id="card">
+      <div class="card-meta">
+        <span class="badge topic" id="card-topic"></span>
+        <span class="badge subtopic" id="card-subtopic"></span>
+        <span class="badge prio" id="card-priority"></span>
+        <span class="badge type" id="card-type"></span>
+        <span class="badge status" id="card-status"></span>
+      </div>
+      <div class="card-question" id="card-question"></div>
+      <ul class="mc-options" id="mc-options" hidden></ul>
+      <div class="card-answer" id="card-answer" hidden>
+        <h3>Antwort</h3>
+        <div id="card-answer-text"></div>
+        <img id="card-answer-img" alt="Abbildung zur Antwort" hidden>
+      </div>
+    </article>
+
+    <div class="card-buttons">
+      <button id="btn-reveal" type="button" class="reveal">Antwort zeigen <kbd>Leertaste</kbd></button>
+      <div class="rate-buttons" id="rate-buttons" hidden>
+        <button id="btn-nicht" type="button" class="rate nicht">✗ Nicht gewusst <kbd>←</kbd></button>
+        <button id="btn-sicher" type="button" class="rate sicher">✓ Sicher <kbd>→</kbd></button>
+      </div>
+    </div>
+
+    <div class="nav">
+      <button id="btn-prev" type="button" class="ghost">‹ Zurück</button>
+      <span id="progress-text">0 / 0</span>
+      <button id="btn-next" type="button" class="ghost">Weiter ›</button>
+    </div>
+  </main>
+
+  <div id="empty-state" class="empty" hidden>
+    <p>Keine Karten für diese Filter. 🎉</p>
+    <p class="muted">Passe die Filter an oder setze den Fortschritt zurück.</p>
+  </div>
+
+  <footer>
+    <p>Inhalte aus der Altklausur APL-SLK „Mikro- und Biosystemtechnik“ (M651/M519, Prof. Klotzbach):
+    Bio-Mikrosysteme, Laser &amp; Laserschutz, Künstliche Intelligenz / Maschinelles Lernen.
+    Fragen 7–9 (Seite 5) liegen nicht vor.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
