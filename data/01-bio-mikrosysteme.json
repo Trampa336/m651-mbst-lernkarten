@@ -42,7 +42,8 @@
     "priority": "A",
     "type": "open",
     "question": "Universal Lab-on-a-Chip-Plattform: Nennen Sie die möglichen biologischen Materialien (Input), die Steuerung/Überwachung sowie die Auswertesysteme/medizinischen Auswertetools (Output).",
-    "answer": "**Biologische Materialien (Input):**\n- Primary cells (inkl. **Stem cells / iPS**, **DNA**)\n- Cell lines (Zelllinien)\n- Tissue models (z. B. **Spheroids**)\n- **Proteine**\n\n**Online control / Online monitoring:**\n- Online control der Zirkulation\n- Online monitoring: **pH-Wert**, **O₂-Wert**\n\n**Auswertesysteme / med. Auswertetools (Output):**\n- **Live Cell Imaging**\n- **Gen-Expression und Regulation**\n- **Bio-Konjugation**\n\n*Zentrale Funktion: dynamische Langzeit-Kultivierung verschiedener Gewebe in einem gemeinsamen Zirkulationssystem.*\n\n*Klausurfrage 5 · 12 Punkte.*"
+    "answer": "**Biologische Materialien (Input):**\n- Primary cells (inkl. **Stem cells / iPS**, **DNA**)\n- Cell lines (Zelllinien)\n- Tissue models (z. B. **Spheroids**)\n- **Proteine**\n\n**Online control / Online monitoring:**\n- Online control der Zirkulation\n- Online monitoring: **pH-Wert**, **O₂-Wert**\n\n**Auswertesysteme / med. Auswertetools (Output):**\n- **Live Cell Imaging**\n- **Gen-Expression und Regulation**\n- **Bio-Konjugation**\n\n*Zentrale Funktion: dynamische Langzeit-Kultivierung verschiedener Gewebe in einem gemeinsamen Zirkulationssystem.*\n\n*Klausurfrage 5 · 12 Punkte.*",
+    "image": "img/lab-on-a-chip-plattform.png"
   },
   {
     "id": "bio-006",
@@ -51,7 +52,8 @@
     "priority": "A",
     "type": "open",
     "question": "Beschriften Sie die wesentlichen Komponenten eines mikrophysiologischen Systems (Chip).",
-    "answer": "Die drei zu beschriftenden Hauptkomponenten:\n- **Pumpe** – erzeugt die (pulsierende) Mikrofluid-Zirkulation\n- **Reservoir** – Speicher für das Kulturmedium\n- **Sensor** – Online-Überwachung (z. B. pH, O₂)\n\n*Klausurfrage 6 · 4 Punkte (Fraunhofer-Chip).*"
+    "answer": "Die drei zu beschriftenden Hauptkomponenten:\n- **Pumpe** – erzeugt die (pulsierende) Mikrofluid-Zirkulation\n- **Reservoir** – Speicher für das Kulturmedium\n- **Sensor** – Online-Überwachung (z. B. pH, O₂)\n\n*Klausurfrage 6 · 4 Punkte (Fraunhofer-Chip).*",
+    "image": "img/mps-komponenten.png"
   },
   {
     "id": "bio-007",
@@ -62,6 +64,7 @@
     "question": "Welche Parameter werden beim Online-Monitoring eines Lab-on-a-Chip typischerweise überwacht?",
     "options": ["Spannung und Stromstärke", "pH-Wert und O₂-Wert", "Drehzahl und Vorschub", "Wellenlänge und Frequenz"],
     "answerIndex": 1,
-    "answer": "**pH-Wert und O₂-Wert** – die zentralen Größen zur Überwachung der Zellkultur im Online-Monitoring (vgl. Frage 5)."
+    "answer": "**pH-Wert und O₂-Wert** – die zentralen Größen zur Überwachung der Zellkultur im Online-Monitoring (vgl. Frage 5).",
+    "image": "img/lab-on-a-chip-plattform.png"
   }
 ]

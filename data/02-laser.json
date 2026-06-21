@@ -42,7 +42,8 @@
     "priority": "A",
     "type": "open",
     "question": "Vier-Energieniveau-Laser: a) Skizzieren Sie das Termschema, b) bezeichnen Sie Pump- und Laserübergang, c) kennzeichnen Sie die strahlungslosen Übergänge.",
-    "answer": "**Termschema (4 Niveaus, von unten nach oben E0–E3):**\n- **E0** Grundzustand\n- **E1** unteres Laserniveau\n- **E2** oberes Laserniveau (metastabil)\n- **E3** Pumpniveau\n\n**a/b) Übergänge:**\n- **Pumpübergang:** E0 → E3 (Energiezufuhr/Pumpen)\n- **Laserübergang:** E2 → E1 (hier wird die Laserstrahlung emittiert)\n\n**c) Strahlungslose Übergänge** (keine Photonen-Emission, Energie als Wärme):\n- E3 → E2 (schnelle Relaxation ins obere Laserniveau)\n- E1 → E0 (schnelle Entleerung des unteren Laserniveaus)\n\n*Diese strahlungslosen Übergänge halten die Besetzungsinversion aufrecht.*\n\n*Klausurfrage 14 a–c · 10 von 14 Punkten.*"
+    "answer": "**Termschema (4 Niveaus, von unten nach oben E0–E3):**\n- **E0** Grundzustand\n- **E1** unteres Laserniveau\n- **E2** oberes Laserniveau (metastabil)\n- **E3** Pumpniveau\n\n**a/b) Übergänge:**\n- **Pumpübergang:** E0 → E3 (Energiezufuhr/Pumpen)\n- **Laserübergang:** E2 → E1 (hier wird die Laserstrahlung emittiert)\n\n**c) Strahlungslose Übergänge** (keine Photonen-Emission, Energie als Wärme):\n- E3 → E2 (schnelle Relaxation ins obere Laserniveau)\n- E1 → E0 (schnelle Entleerung des unteren Laserniveaus)\n\n*Diese strahlungslosen Übergänge halten die Besetzungsinversion aufrecht.*\n\n*Klausurfrage 14 a–c · 10 von 14 Punkten.*",
+    "image": "img/laser-termschema-vier-niveau.png"
   },
   {
     "id": "laser-006",
@@ -60,7 +61,8 @@
     "priority": "A",
     "type": "open",
     "question": "Ordnen Sie die Spektralbereiche (UV, sichtbares Licht, IR) und die Lasertypen den Wellenlängen zu.",
-    "answer": "**IR (Infrarot, > 780 nm):**\n- 10 µm → **CO₂-Laser**\n- 1,06 µm → **Nd:YAG-Laser**\n- (2,9 µm / 1,9 µm – IR-Bereich)\n\n**Sichtbares Licht (≈ 380–780 nm):**\n- 514 nm → **Argon-Laser** (grün)\n- ≈ 630–940 nm → **Halbleiterlaser** (Diode)\n\n**UV (Ultraviolett, < 380 nm):**\n- 351 / 308 / 248 / 193 / 157 nm → **Excimer-Laser**\n- (Helium-/Edelgaslaser im kurzen Bereich)\n\n*Eselsbrücke: lange Wellenlänge = IR (CO₂), kurze = UV (Excimer).*\n\n*Klausurfrage 15 · 9 Punkte (3 Bereiche + 6 Lasertypen).*"
+    "answer": "**IR (Infrarot, > 780 nm):**\n- 10 µm → **CO₂-Laser**\n- 1,06 µm → **Nd:YAG-Laser**\n- (2,9 µm / 1,9 µm – IR-Bereich)\n\n**Sichtbares Licht (≈ 380–780 nm):**\n- 514 nm → **Argon-Laser** (grün)\n- ≈ 630–940 nm → **Halbleiterlaser** (Diode)\n\n**UV (Ultraviolett, < 380 nm):**\n- 351 / 308 / 248 / 193 / 157 nm → **Excimer-Laser**\n- (Helium-/Edelgaslaser im kurzen Bereich)\n\n*Eselsbrücke: lange Wellenlänge = IR (CO₂), kurze = UV (Excimer).*\n\n*Klausurfrage 15 · 9 Punkte (3 Bereiche + 6 Lasertypen).*",
+    "image": "img/laser-spektrum-uv-vis-ir.png"
   },
   {
     "id": "laser-008",
@@ -69,7 +71,8 @@
     "priority": "A",
     "type": "open",
     "question": "Zeichnen Sie den prinzipiellen Aufbau eines Lasers und beschriften Sie die wesentlichen Komponenten.",
-    "answer": "Wesentliche Komponenten:\n- **Aktives Medium / Anregungsmedium** (Lasermedium)\n- **Energiezufuhr (Pumpquelle)** → liefert die Emissionsenergie\n- **Resonator** aus zwei Spiegeln:\n  - **Hochreflektierender Spiegel** (Rückseite, ggf. mit Abwärme)\n  - **Teildurchlässiger Spiegel** (Auskoppelspiegel) → hier tritt der **Laserstrahl** aus\n\n*Ablauf: Pumpenergie → Besetzungsinversion im aktiven Medium → stimulierte Emission → Verstärkung im Resonator → Auskopplung des Laserstrahls.*\n\n*Klausurfrage 16 · 6 Punkte.*"
+    "answer": "Wesentliche Komponenten:\n- **Aktives Medium / Anregungsmedium** (Lasermedium)\n- **Energiezufuhr (Pumpquelle)** → liefert die Emissionsenergie\n- **Resonator** aus zwei Spiegeln:\n  - **Hochreflektierender Spiegel** (Rückseite, ggf. mit Abwärme)\n  - **Teildurchlässiger Spiegel** (Auskoppelspiegel) → hier tritt der **Laserstrahl** aus\n\n*Ablauf: Pumpenergie → Besetzungsinversion im aktiven Medium → stimulierte Emission → Verstärkung im Resonator → Auskopplung des Laserstrahls.*\n\n*Klausurfrage 16 · 6 Punkte.*",
+    "image": "img/laser-aufbau.png"
   },
   {
     "id": "laser-009",
@@ -78,7 +81,8 @@
     "priority": "A",
     "type": "open",
     "question": "Beschriften Sie die optische Skizze der Strahlfokussierung mit einer Linse.",
-    "answer": "Zu beschriftende Größen:\n- **Laserstrahl-Durchmesser** (Strahldurchmesser vor der Linse)\n- **Linse** (Fokussieroptik)\n- **Brennweite** (Abstand Linse → Fokus)\n- **Brechwinkel** (Konvergenzwinkel des fokussierten Strahls)\n\n*Klausurfrage 17 · 6 Punkte.*"
+    "answer": "Zu beschriftende Größen:\n- **Laserstrahl-Durchmesser** (Strahldurchmesser vor der Linse)\n- **Linse** (Fokussieroptik)\n- **Brennweite** (Abstand Linse → Fokus)\n- **Brechwinkel** (Konvergenzwinkel des fokussierten Strahls)\n\n*Klausurfrage 17 · 6 Punkte.*",
+    "image": "img/laser-fokussierung-optik.png"
   },
   {
     "id": "laser-010",

@@ -72,8 +72,11 @@ Karten liegen als JSON unter [`data/`](data/) – eine Datei pro Prüfungsbereic
 
 ## Hinweise
 
-- Die Klausur-Abbildungen sind handgezeichnet; sie sind hier **textuell beschrieben** statt als
-  Bild beigelegt. Der Ordner `img/` ist für eigene, später ergänzte Skizzen vorgesehen.
+- Zu den abbildungslastigen Fragen liegen jetzt **Abbildungen aus den Vorlesungsskripten** im
+  Ordner `img/` und werden auf der Antwortseite angezeigt (Vier-Niveau-Termschema, Laser-Aufbau,
+  sichtbares Spektrum, Strahlfokussierung/Optik, Lab-on-a-Chip-Plattform, MPS-Komponenten). Sie
+  stammen aus den Folien `VO_5_Grundlagen_Laser` und `VO_8_Herstellung von MPS`. Die übrigen
+  Klausur-Abbildungen sind weiterhin **textuell beschrieben**; eigene Skizzen können ergänzt werden.
 - Inhaltliche Fehler? Gerne korrigieren.
 
 *Kein offizielles Material der HTW Dresden – privates Lernprojekt.*
