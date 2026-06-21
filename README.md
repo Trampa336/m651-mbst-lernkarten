@@ -1,5 +1,7 @@
 # MBST – Mikro- & Biosystemtechnik – Lernkarten
 
+**▶ Online lernen: <https://trampa336.github.io/m651-mbst-lernkarten/>**
+
 Interaktive Lernkarten (Flashcards) zur Vorbereitung auf die Klausur **APL-SLK „Mikro- und
 Biosystemtechnik“** (Modul **M651/M519**, HTW Dresden, Fak. Maschinenbau – Professur
 Fertigungssysteme/Urformtechnik, Prof. Dr.-techn. Udo Klotzbach).
@@ -20,12 +22,15 @@ Drei Prüfungsbereiche der Altklausur:
 | Bio-Mikrosysteme | 1–6 (Größenordnungen, MPS, Herstellungskette, Lab-on-a-Chip) |
 | Laser | 10–17 (Akronym, Eigenschaften, Anregung, Vier-Niveau-Laser, Spektrum, Aufbau, Optik) |
 | Laserschutz | 18–20 (Wirkung, biologische Wirkung, Gefährdung) |
-| KI / Maschinelles Lernen | 21 (Was ist Lernen?) |
+| KI / Maschinelles Lernen | 21 (Was ist Lernen?, ML-/KI-Definition, AI/ML/NN-Zuordnung) |
 
 > **Lücke:** Die Fragen **7–9** (Seite 5 von 12) liegen nicht als Foto vor und fehlen daher.
 > Sobald die Seite verfügbar ist, können sie als weitere Karten ergänzt werden (siehe unten).
 
 ## Benutzung
+
+### Online
+Direkt im Browser öffnen: <https://trampa336.github.io/m651-mbst-lernkarten/> (GitHub Pages).
 
 ### Lokal
 `index.html` im Browser öffnen – oder, damit die Kartendaten (`fetch`) sauber geladen werden,
