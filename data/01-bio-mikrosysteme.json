@@ -15,7 +15,7 @@
     "priority": "A",
     "type": "open",
     "question": "Nennen Sie mindestens 3 Motivationen für die Entwicklung von mikrophysiologischen Systemen (MPS).",
-    "answer": "- Sie können **Tierversuche ersetzen** (Reduktion/Ersatz von Tiermodellen).\n- Sie bilden **Zell-Zell- bzw. Organ-Organ-Beziehungen besser ab** als andere (klassische) Verfahren.\n- Sie sind **online überwachbar** (kontinuierliches Monitoring während der Kultivierung).\n- Sie ermöglichen Versuche **in vitro** unter realitätsnahen Bedingungen.\n- **Geringes Zell-zu-Medium-Verhältnis** → physiologischere Bedingungen.\n\n*Klausurfrage 2 · 6 Punkte.*"
+    "answer": "Motivationen für die Entwicklung von MPS (VO_4 „Motivation“ / „Fields of application“):\n- **Ersatz von Tierversuchen** (tierversuchsfreie Substanztestung)\n- **Systemische Substanz-/Toxizitätstests** – die meisten Vergiftungen wirken systemisch\n- **Prädiktive Substanztestung** durch das Zusammenspiel verschiedener Zellen/Gewebe in einem **gemeinsamen Kreislauf analog zum menschlichen Körper** (Zell-Zell- bzw. Organ-Organ-Wechselwirkung)\n- **ADME(T)-Tests** und Untersuchung von **Wirkmechanismen**\n- **Personalisierte Medizin** (z. B. Tumor- und Autoimmunerkrankungen), Grundlagenforschung\n\n*Klausurfrage 2 · 6 Punkte.*"
   },
   {
     "id": "bio-003",
@@ -24,7 +24,7 @@
     "priority": "A",
     "type": "open",
     "question": "Welche Anforderungen bestehen an mikrophysiologische Systeme?",
-    "answer": "- Sie sollen **online überwachbar** sein.\n- Sie sollen eine **pulsierende Mikrofluid-Zirkulation** beinhalten (Nachbildung des Blutkreislaufs).\n- Sie sollen ein **geringes Zell-zu-Medium-Verhältnis** aufweisen.\n\n*Klausurfrage 3 · 4 Punkte.*"
+    "answer": "Anforderungen an MPS (VO_4 „Requirements“):\n- **Geschlossenes Mikrozirkulationssystem**\n- **Geringes Medium-zu-Zell-Verhältnis** (geringe Verdünnung von Botenstoffen)\n- **Pulsierender Fluss im physiologischen Bereich**\n- **Biokompatibel**\n- **Online überwachbar** (kompatibel mit etablierter Laborausrüstung)\n\n*Klausurfrage 3 · 4 Punkte.*"
   },
   {
     "id": "bio-004",
@@ -33,7 +33,7 @@
     "priority": "A",
     "type": "open",
     "question": "Für die Herstellung von Mikrosystemen wird eine Technologiekette (Konzept–Design–Simulation–Konstruktion–Prototyping) eingesetzt. Ergänzen Sie die vier Herstellungsverfahren mit je mind. 3 Technologien.",
-    "answer": "**1. Rapid Tooling / Replication**\n- Gepulste Laserbearbeitung\n- CNC-Fräsen\n- Spritzguss / Heißprägen (Abformung)\n\n**2. Mikrostrukturierung**\n- µ-LIP-Verfahren (Laser-induzierte Strukturierung)\n- Laser-Oberflächenstrukturierung\n- Ätzverfahren (nass-/trockenchemisch)\n\n**3. Additive Verfahren**\n- Bio-3D-Druck\n- Stereolithografie\n- 2-Photonen-Polymerisation\n\n**4. Mechanische Prozesse**\n- Laminieren\n- Bonden / Fügen\n- Schneiden / Stanzen\n\n*Klausurfrage 4 · 9 Punkte (mind. 3 je Verfahren).*"
+    "answer": "Geschlossene Technologiekette für Mikro- und Biosysteme (VO_4):\nKonzept → Design → Simulation → Konstruktion → …\n\n**1. Rapid Tooling / Replication (Abformung)**\n- Abformen (Moulding)\n- Heißprägen (Hot stamping)\n- Spritzguss (Injection moulding)\n\n**2. Mikrostrukturierung**\n- Laserschneiden (Laser cutting)\n- Laserbohren (Laser drilling)\n- Laser-Mikrostrukturierung (Laser-µ-structuring)\n\n**3. Additive Verfahren (Additive manufacturing)**\n- 3D-Druck (3D printing)\n- Lasersintern (Laser sintering)\n- Polymerisation (Polymerization)\n\n**4. Mechanische Prozesse (Mechanical processing)**\n- CNC-Fräsen (CNC milling)\n- Erodieren (Eroding)\n- Polieren (Polishing)\n\nErgänzend in der Kette: **Konstruktion & Montage** (Laminieren, Schweißen, Kleben, 3D-Druck funktioneller Nano-Tinten) und **Test & Charakterisierung** (Mikroskopie, Zugversuch; Dichtheit, Particle Image Velocimetry).\n\n*Klausurfrage 4 · 9 Punkte (mind. 3 je Verfahren).*"
   },
   {
     "id": "bio-005",
@@ -42,7 +42,7 @@
     "priority": "A",
     "type": "open",
     "question": "Universal Lab-on-a-Chip-Plattform: Nennen Sie die möglichen biologischen Materialien (Input), die Steuerung/Überwachung sowie die Auswertesysteme/medizinischen Auswertetools (Output).",
-    "answer": "**Biologische Materialien (Input):**\n- Primary cells (inkl. **Stem cells / iPS**, **DNA**)\n- Cell lines (Zelllinien)\n- Tissue models (z. B. **Spheroids**)\n- **Proteine**\n\n**Online control / Online monitoring:**\n- Online control der Zirkulation\n- Online monitoring: **pH-Wert**, **O₂-Wert**\n\n**Auswertesysteme / med. Auswertetools (Output):**\n- **Live Cell Imaging**\n- **Gen-Expression und Regulation**\n- **Bio-Konjugation**\n\n*Zentrale Funktion: dynamische Langzeit-Kultivierung verschiedener Gewebe in einem gemeinsamen Zirkulationssystem.*\n\n*Klausurfrage 5 · 12 Punkte.*",
+    "answer": "Universal Lab-on-a-Chip-Plattform (VO_4-Schema):\n**Dynamische Langzeit-Kultivierung verschiedener Gewebe in einem gemeinsamen Zirkulationssystem.**\n\n**Biologische Materialien (Input, links):**\n- **Primary cells:** Biopsies, Stem cells (iPS), Immune cells\n- **Cell lines** (Zelllinien)\n- **Tissue models:** Skin, Spheroids\n- **3D printed tissue constructs**\n\n**Steuerung/Überwachung (Mitte):**\n- **Online control:** Flow & Temperatur; Oxygen & pH\n- **Online monitoring:** Mikroskopie, Fluoreszenz\n\n**Auswertesysteme / med. Auswertetools (Output, rechts):**\n- **Live Cell Imaging**\n- **Biomarkers**\n- **Gen expression and regulation**\n- **Histology**\n\n*Hinweis: pH und O₂ gehören laut Schema zur **Online-Regelung (control)**, nicht zum Monitoring.*\n\n*Klausurfrage 5 · 12 Punkte.*",
     "image": "img/lab-on-a-chip-plattform.png"
   },
   {
@@ -52,7 +52,7 @@
     "priority": "A",
     "type": "open",
     "question": "Beschriften Sie die wesentlichen Komponenten eines mikrophysiologischen Systems (Chip).",
-    "answer": "Die drei zu beschriftenden Hauptkomponenten:\n- **Pumpe** – erzeugt die (pulsierende) Mikrofluid-Zirkulation\n- **Reservoir** – Speicher für das Kulturmedium\n- **Sensor** – Online-Überwachung (z. B. pH, O₂)\n\n*Klausurfrage 6 · 4 Punkte (Fraunhofer-Chip).*",
+    "answer": "Die vier zu beschriftenden Komponenten des Chips (Fraunhofer; vgl. VO_4/VO_8):\n- **Reservoir** – Speicher für das Kulturmedium\n- **Pumpe** – (peristaltische) Mikropumpe für die Zirkulation\n- **Oxygenator** – Gasaustausch / Sauerstoffversorgung\n- **Zellkulturmodul** (Cell culture module) – Kammer für Zellen/Gewebe\n\n*Klausurfrage 6 · 4 Punkte.*",
     "image": "img/mps-komponenten.png"
   },
   {
@@ -61,10 +61,37 @@
     "subtopic": "Online-Monitoring",
     "priority": "A",
     "type": "mc",
-    "question": "Welche Parameter werden beim Online-Monitoring eines Lab-on-a-Chip typischerweise überwacht?",
+    "question": "Welche physiologischen Parameter werden in einem Lab-on-a-Chip online geregelt/überwacht (Online control)?",
     "options": ["Spannung und Stromstärke", "pH-Wert und O₂-Wert", "Drehzahl und Vorschub", "Wellenlänge und Frequenz"],
     "answerIndex": 1,
-    "answer": "**pH-Wert und O₂-Wert** – die zentralen Größen zur Überwachung der Zellkultur im Online-Monitoring (vgl. Frage 5).",
+    "answer": "**pH-Wert und O₂-Wert** – die zentralen physiologischen Größen, die in der Lab-on-a-Chip-Plattform per **Online control** geregelt werden (neben Flow & Temperatur). Das **Online monitoring** erfolgt über Mikroskopie/Fluoreszenz (vgl. Frage 5).",
     "image": "img/lab-on-a-chip-plattform.png"
+  },
+  {
+    "id": "bio-008",
+    "topic": "Bio-Mikrosysteme",
+    "subtopic": "MPS – Vor-/Nachteile",
+    "priority": "B",
+    "type": "open",
+    "question": "Welche Vor- und ggf. Nachteile haben mikrophysiologische Systeme (MPS)?",
+    "answer": "**Vorteile** (VO_4/VO_8 „Benefits“):\n- Miniaturisierung; geringerer Material-/Reagenzienverbrauch\n- Geringes Medium-zu-Zell-Verhältnis → keine Verdünnung von Botenstoffen\n- Geschlossenes Mikrozirkulationssystem mit integrierten Mikropumpen\n- Pulsierender Fluss im physiologischen Bereich\n- Automatisierung/Parallelisierung, höherer Durchsatz, weniger Personalaufwand\n- Online-überwachbar (kompatibel mit etablierter Ausrüstung)\n- Hohe Flexibilität / kundenspezifisches Design; Losgröße 1 bis Massenproduktion; kurze Lieferzeiten (≈ 5 Arbeitstage)\n- Ersatz von Tierversuchen; bildet Zell-Zell-/Organ-Organ-Wechselwirkungen ab\n\n**Nachteile** (in den Folien nicht explizit genannt – allgemein bekannte Grenzen):\n- Aufwändige, mehrstufige Herstellungs-/Technologiekette\n- Kleine Zellzahlen/Volumina → anspruchsvolle Analytik\n- Standardisierung, Reproduzierbarkeit und Validierung noch herausfordernd\n- Bildet keinen vollständigen Organismus ab (nur ausgewählte Organe/Funktionen)\n\n*Schwerpunkt 1b.*"
+  },
+  {
+    "id": "bio-009",
+    "topic": "Bio-Mikrosysteme",
+    "subtopic": "Integrierbare Komponenten",
+    "priority": "B",
+    "type": "open",
+    "question": "Welche Komponenten können in ein MPS / eine Lab-on-a-Chip-Plattform integriert werden?",
+    "answer": "Integrierbare Komponenten (VO_4 „Sensor/Membrane/Oxygenator integration“, „Interfaces“):\n- **Sensoren** (Dünn-/Dickschicht): O₂, TEER, MEA – via Laminieren/Bonden\n- **Membranen:** Oxygenator, Dialysator, Barriere\n- **Oxygenator:** gasdurchlässige Membran (Oxygenierung, Hypoxie)\n- **Scaffolds / Interfaces:** gegossen/vorgeformt, Microwell-basiert, 3D-gedruckt\n- **Grundkomponenten:** (peristaltische) Pumpe, Ventile, Reservoir, Zellkulturmodul\n\n*Schwerpunkt 1f.*"
+  },
+  {
+    "id": "bio-010",
+    "topic": "Bio-Mikrosysteme",
+    "subtopic": "Emulierbare Prozesse",
+    "priority": "B",
+    "type": "open",
+    "question": "Welche Prozesse/Bedingungen kann ein MPS emulieren – und mit welchen Technologien?",
+    "answer": "**Was ein MPS emulieren soll** (VO_8 „Basics of microphysiology“) → **Technologie:**\n- **Temperatur** → Inkubator / integrierte Heizung\n- **Mechanische Kräfte** (z. B. Scherspannung) → Mikropumpe & Dämpfer\n- **Zell-zu-Volumen-Verhältnis** → integrierte Pumpe & Ventile\n- **Sauerstoffgehalt** → integrierter Oxygenator\n- **Extrazelluläre Matrix** → unterschiedlich geformte Zellkulturkammern\n\n*Schwerpunkt 1g.*"
   }
 ]

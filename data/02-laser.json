@@ -15,7 +15,7 @@
     "priority": "A",
     "type": "open",
     "question": "Welche zwei wesentlichen Eigenschaften hat Laserlicht?",
-    "answer": "- **Monochromatisch und kohärent** (eine Wellenlänge, feste Phasenbeziehung)\n- **Hohe Energiedichte**\n\nWeiteres Kennzeichen: geringe Strahldivergenz (gut bündelbar).\n\n*Klausurfrage 11 · 4 Punkte.*"
+    "answer": "Eigenschaften des Laserlichtes (VO_5) – im Gegensatz zum „normalen“ Licht:\n- **Monochromatisch** (eine Wellenlänge) – Licht ist polychrom\n- **Kohärent** (feste Phasenbeziehung, zeitlich & räumlich) – Licht ist inkohärent\n- **Gerichtet/direktional** (geringe Divergenz, gut bündelbar) – Licht ist multidirektional\n- **Hohe Intensität** – Licht hat geringe Intensität\n\nDie **zwei wesentlichen** (definierenden) Eigenschaften: **monochromatisch und kohärent**.\n\n*Klausurfrage 11 · 4 Punkte.*"
   },
   {
     "id": "laser-003",
@@ -24,7 +24,7 @@
     "priority": "A",
     "type": "open",
     "question": "Nennen Sie die drei Anregungsmechanismen für Licht / LASER.",
-    "answer": "1. **Optische** Anregung\n2. **Chemische** Anregung\n3. **Elektrische** Anregung\n\n*Klausurfrage 12 · 6 Punkte.*"
+    "answer": "Die drei Anregungsmechanismen für Licht/LASER (VO_5):\n1. **Anregung durch Elektronenstoß** (Stoßanregung)\n2. **Anregung durch Photonenabsorption** (Absorption)\n3. **Stimulierte (induzierte) Emission**\n\n*Achtung: optisch/chemisch/elektrisch sind **Pump-/Energiequellen**, nicht die hier gefragten Anregungsmechanismen.*\n\n*Klausurfrage 12 · 6 Punkte.*"
   },
   {
     "id": "laser-004",
@@ -32,8 +32,8 @@
     "subtopic": "Anregungsmechanismen",
     "priority": "A",
     "type": "open",
-    "question": "Beschreiben Sie zwei der drei Anregungsmechanismen (optisch / chemisch / elektrisch).",
-    "answer": "**Elektrische Anregung:**\nDurch einen Strom von Elektronen wird das Anregungsmedium dazu gebracht, dass Teilchen von einem Energieniveau auf ein anderes (höheres) springen. Beim Zurückfallen werden **Photonen freigesetzt**, die als Licht-/Laserstrahlung wirken.\n\n**Optische Anregung:**\nDas Anregungsmedium wird durch **Licht** (z. B. Blitzlampe oder Pumplaser) bestrahlt. Die Photonen heben Teilchen auf ein höheres Energieniveau (Pumpen → Besetzungsinversion).\n\n**Chemische Anregung:**\nDie zur Besetzungsinversion nötige Energie stammt aus einer **chemischen Reaktion** im Lasermedium.\n\n*Klausurfrage 13 · 8 Punkte.*"
+    "question": "Beschreiben Sie zwei der drei Anregungsmechanismen (Elektronenstoß / Photonenabsorption / stimulierte Emission).",
+    "answer": "Beschreibung von zwei der drei Mechanismen:\n\n**Anregung durch Photonenabsorption:**\nEin Photon passender Energie (hν = Energiedifferenz) wird vom Atom absorbiert; ein Elektron wird von einem niedrigeren auf ein höheres Energieniveau gehoben.\n\n**Stimulierte (induzierte) Emission:**\nEin einfallendes Photon trifft auf ein bereits angeregtes Atom und löst den Übergang auf das niedrigere Niveau aus. Dabei wird ein **zweites Photon** emittiert, das mit dem auslösenden in Wellenlänge, Richtung und Phase **identisch (kohärent)** ist → Lichtverstärkung (Grundprinzip des Lasers).\n\n(**Anregung durch Elektronenstoß:** ein freies Elektron stößt mit dem Atom, überträgt Energie und hebt ein Elektron auf ein höheres Niveau.)\n\n*Klausurfrage 13 · 8 Punkte.*"
   },
   {
     "id": "laser-005",
@@ -61,7 +61,7 @@
     "priority": "A",
     "type": "open",
     "question": "Ordnen Sie die Spektralbereiche (UV, sichtbares Licht, IR) und die Lasertypen den Wellenlängen zu.",
-    "answer": "**IR (Infrarot, > 780 nm):**\n- 10 µm → **CO₂-Laser**\n- 1,06 µm → **Nd:YAG-Laser**\n- (2,9 µm / 1,9 µm – IR-Bereich)\n\n**Sichtbares Licht (≈ 380–780 nm):**\n- 514 nm → **Argon-Laser** (grün)\n- ≈ 630–940 nm → **Halbleiterlaser** (Diode)\n\n**UV (Ultraviolett, < 380 nm):**\n- 351 / 308 / 248 / 193 / 157 nm → **Excimer-Laser**\n- (Helium-/Edelgaslaser im kurzen Bereich)\n\n*Eselsbrücke: lange Wellenlänge = IR (CO₂), kurze = UV (Excimer).*\n\n*Klausurfrage 15 · 9 Punkte (3 Bereiche + 6 Lasertypen).*",
+    "answer": "Spektralbereiche und Lasertypen (VO_5):\n\n**UV (Ultraviolett, < 380 nm):**\n- **Excimer-Laser** (z. B. 157 / 193 / 248 / 308 / 351 nm)\n\n**Sichtbares Licht (380–780 nm):**\n- **Helium-Neon-Laser** (≈ 633 nm, rot)\n- **Argon-Laser** (≈ 514 / 488 nm, grün/blau)\n\n**IR (Infrarot, > 780 nm):**\n- **Halbleiter-/Diodenlaser** (≈ 800–2200 nm)\n- **Nd:YAG-Laser** (1064 nm)\n- **CO₂-Laser** (10,6 µm)\n\n*Eselsbrücke: lange Wellenlänge = IR (CO₂), kurze = UV (Excimer).*\n\n*Klausurfrage 15 · 9 Punkte (3 Bereiche + 6 Lasertypen).*",
     "image": "img/laser-spektrum-uv-vis-ir.png"
   },
   {
@@ -81,7 +81,7 @@
     "priority": "A",
     "type": "open",
     "question": "Beschriften Sie die optische Skizze der Strahlfokussierung mit einer Linse.",
-    "answer": "Zu beschriftende Größen:\n- **Laserstrahl-Durchmesser** (Strahldurchmesser vor der Linse)\n- **Linse** (Fokussieroptik)\n- **Brennweite** (Abstand Linse → Fokus)\n- **Brechwinkel** (Konvergenzwinkel des fokussierten Strahls)\n\n*Klausurfrage 17 · 6 Punkte.*",
+    "answer": "Zu beschriftende Größen der Strahlfokussierung (VO_5 „Fokussierbarkeit“):\n- **Strahldurchmesser D** (vor der Linse)\n- **(Fokussier-)Linse**\n- **Brennweite f** (Abstand Linse → Fokus)\n- **Brennfleckdurchmesser d** (Fokusdurchmesser)\n- **Divergenz-/Konvergenzwinkel θ** (Öffnungswinkel des fokussierten Strahls)\n- **Arbeitsabstand z**\n\nZusammenhang: d ≈ 2,44 · λ · f / D (kleiner Fokus bei kurzer λ, kurzer Brennweite, großem Strahldurchmesser).\n\n*Hinweis: „Brechwinkel“ ist hier falsch – gemeint ist der **Divergenz-/Konvergenzwinkel**.*\n\n*Klausurfrage 17 · 6 Punkte.*",
     "image": "img/laser-fokussierung-optik.png"
   },
   {
@@ -94,5 +94,50 @@
     "options": ["Excimer-Laser", "Argon-Laser", "CO₂-Laser", "Nd:YAG-Laser"],
     "answerIndex": 2,
     "answer": "Der **CO₂-Laser** emittiert im fernen Infrarot bei **≈ 10,6 µm** – die längste der typischen Laserwellenlängen (vgl. Frage 15)."
+  },
+  {
+    "id": "laser-011",
+    "topic": "Laser",
+    "subtopic": "Phänomen Licht",
+    "priority": "B",
+    "type": "open",
+    "question": "Beschreiben Sie das Phänomen Licht und drei wesentliche physikalische Prozesse für das Licht.",
+    "answer": "**Phänomen Licht** (VO_5 „Was ist Licht?“):\n- **Welle-Teilchen-Dualismus:** Licht ist Teilchen **und** Welle zugleich. Das **Photon** (Lichtquant) ist ein masseloses Elementarteilchen; gleichzeitig ist Licht eine **elektromagnetische Welle**.\n- Ausbreitung im Vakuum mit **c ≈ 300 000 km/s** (3·10⁸ m/s), unabhängig vom Bewegungszustand der Quelle.\n- Charakterisiert durch **Wellenlänge, Frequenz, Energie**.\n\n**Drei wesentliche physikalische Prozesse:**\n1. **Reflexion** – Licht wird zurückgeworfen\n2. **Absorption** – Licht wird vom Material aufgenommen\n3. **Brechung (Refraktion)** – Richtungsänderung beim Übergang in ein optisch dichteres/dünneres Medium\n\n*Schwerpunkt 2a.*"
+  },
+  {
+    "id": "laser-012",
+    "topic": "Laser",
+    "subtopic": "Licht vs. Laser",
+    "priority": "B",
+    "type": "open",
+    "question": "Welche Eigenschaften unterscheiden das natürliche Licht vom Laser?",
+    "answer": "Gegenüberstellung (VO_5 „Eigenschaften des Laserlichtes“):\n- **Natürliches/normales Licht:** polychrom (viele Wellenlängen), multidirektional (ungerichtet), inkohärent (keine feste Phasenbeziehung), geringe Intensität.\n- **Laser:** monochrom (eine Wellenlänge), gerichtet/direktional (geringe Divergenz), kohärent (feste Phasenbeziehung), hohe Intensität.\n\n*Schwerpunkt 2b.*"
+  },
+  {
+    "id": "laser-013",
+    "topic": "Laser",
+    "subtopic": "Lasertypen",
+    "priority": "B",
+    "type": "open",
+    "question": "Welche Lasertypen gibt es? (Einteilung nach aktivem Medium)",
+    "answer": "Einteilung nach **aktivem Medium** (VO_5):\n- **Gaslaser:** CO₂ (10,6 µm), Excimer (UV), Helium-Neon (633 nm), Argon (514/488 nm)\n- **Festkörperlaser:** Nd:YAG (1064 nm), Rubin (694 nm), Yb:YAG (≈ 1030/1070 nm), Er:YAG (≈ 2940 nm), Alexandrit (755 nm)\n- **Halbleiter-/Diodenlaser** (≈ 600–2200 nm)\n- **Faserlaser** sowie **Stab-/Scheibenlaser** (Bauformen des Festkörperlasers)\n- **Farbstofflaser** (flüssiges Medium)\n\nZusätzlich nach **Betriebsweise:** Dauerstrich (cw) vs. gepulst / Ultrakurzpuls (UKP).\n\n*Schwerpunkt 2d.*"
+  },
+  {
+    "id": "laser-014",
+    "topic": "Laser",
+    "subtopic": "Strahleigenschaften",
+    "priority": "B",
+    "type": "open",
+    "question": "Welche Strahleigenschaften hat der Laser und wie sind die physikalischen Zusammenhänge?",
+    "answer": "**Strahleigenschaften** (VO_5):\n- **Wellenlänge λ**, **Frequenz f**, **Energie E**\n- Leistung/Intensität, Strahlqualität (M²), Divergenz, Polarisation, Betriebsweise\n\n**Physikalische Zusammenhänge:**\n- **c = λ · f**  (c ≈ 3·10⁸ m/s)\n- **E = h · f = h · c / λ**  (h = Plancksches Wirkungsquantum)\n- → **kurze Wellenlänge = hohe Frequenz = hohe Photonenenergie**\n\n*Schwerpunkt 2e.*"
+  },
+  {
+    "id": "laser-015",
+    "topic": "Laser",
+    "subtopic": "UKP-Laser",
+    "priority": "B",
+    "type": "open",
+    "question": "Welche Bedeutung haben UKP-Laser (Ultrakurzpuls) für die Materialbearbeitung?",
+    "answer": "**UKP = Ultrakurzpuls** (Pulsdauern im ps-/fs-Bereich). Bedeutung für die Materialbearbeitung (VO_5 „Gepulste vs. Dauerstrich“):\n- **Reduzierte/minimale Wärmeeinflusszone** → „kalte“/athermische Ablation, kaum thermische Schädigung des Umfelds (kein Aufschmelzen)\n- **Schnell und präzise steuerbar** → hohe Präzision/Auflösung\n- **Sehr hohe Spitzenintensitäten** (> 10¹⁰ W/cm²) → nahezu jedes Material bearbeitbar (auch harte/transparente Werkstoffe, nichtlineare Absorption)\n\n*Schwerpunkt 2i.*"
   }
 ]

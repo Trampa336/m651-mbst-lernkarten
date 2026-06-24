@@ -6,7 +6,7 @@
     "priority": "A",
     "type": "open",
     "question": "Was ist Lernen?",
-    "answer": "**Lernen ist die nachhaltige Veränderung von Wissen oder Verhalten.**\n\nIm Kontext des maschinellen Lernens: ein System verbessert sein Verhalten/seine Vorhersagen auf Basis von Erfahrung (Daten), ohne explizit dafür programmiert zu werden.\n\nZitate aus der Vorlesung:\n- *„Lernen ist der Sammelname für Vorgänge, Prozesse oder nicht unmittelbar beobachtbare Veränderungen im Organismus, die durch Erfahrungen entstehen und zu Veränderungen des Verhaltens führen.“* [Bergius, 1971]\n- *„Lernen ist eine Verhaltensänderung, die nicht durch Reifungsvorgänge, Verletzungen oder Erkrankungen, Ermüdungsprozesse oder durch Anlagen erklärt werden kann.“* [Joerger, 1976]\n\n*Klausurfrage 21 · 4 Punkte · Schwerpunkt 3a.*"
+    "answer": "**Lernen ist die nachhaltige Veränderung von Wissen oder Verhalten** auf Basis von Erfahrung.\n\nDefinitionen aus der Vorlesung (VO_9):\n- *„Lernen ist der Sammelname für Vorgänge, Prozesse oder nicht unmittelbar beobachtbare Veränderungen im Organismus, die durch Erfahrungen entstehen und zu Veränderungen des Verhaltens führen.“* [Bergius, 1971]\n- *„Lernen ist eine Verhaltensänderung, die nicht durch Reifungsvorgänge, Verletzungen oder Erkrankungen, Ermüdungsprozesse oder durch Anlagen erklärt werden kann.“* [Joerger, 1976]\n\nIm Sinne des maschinellen Lernens (Simon, 1983): ein System verändert sich so, dass es dieselbe Aufgabe beim nächsten Mal effizienter und effektiver löst.\n\n*Klausurfrage 21 · 4 Punkte · Schwerpunkt 3a.*"
   },
   {
     "id": "ki-002",
