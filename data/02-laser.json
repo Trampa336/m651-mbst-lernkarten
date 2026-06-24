@@ -6,7 +6,8 @@
     "priority": "A",
     "type": "flashcard",
     "question": "Was heißt das Akronym LASER?",
-    "answer": "**L**ight **A**mplification by **S**timulated **E**mission of **R**adiation.\n\n(Lichtverstärkung durch stimulierte Emission von Strahlung.)\n\n*Klausurfrage 10 · 2 Punkte.*"
+    "answer": "**L**ight **A**mplification by **S**timulated **E**mission of **R**adiation.\n\n(Lichtverstärkung durch stimulierte Emission von Strahlung.)\n\n*Klausurfrage 10 · 2 Punkte.*",
+    "image": "img/folie-laser-001.png"
   },
   {
     "id": "laser-002",
@@ -15,7 +16,8 @@
     "priority": "A",
     "type": "open",
     "question": "Welche zwei wesentlichen Eigenschaften hat Laserlicht?",
-    "answer": "Eigenschaften des Laserlichtes (VO_5) – im Gegensatz zum „normalen“ Licht:\n- **Monochromatisch** (eine Wellenlänge) – Licht ist polychrom\n- **Kohärent** (feste Phasenbeziehung, zeitlich & räumlich) – Licht ist inkohärent\n- **Gerichtet/direktional** (geringe Divergenz, gut bündelbar) – Licht ist multidirektional\n- **Hohe Intensität** – Licht hat geringe Intensität\n\nDie **zwei wesentlichen** (definierenden) Eigenschaften: **monochromatisch und kohärent**.\n\n*Klausurfrage 11 · 4 Punkte.*"
+    "answer": "Eigenschaften des Laserlichtes (VO_5) – im Gegensatz zum „normalen“ Licht:\n- **Monochromatisch** (eine Wellenlänge) – Licht ist polychrom\n- **Kohärent** (feste Phasenbeziehung, zeitlich & räumlich) – Licht ist inkohärent\n- **Gerichtet/direktional** (geringe Divergenz, gut bündelbar) – Licht ist multidirektional\n- **Hohe Intensität** – Licht hat geringe Intensität\n\nDie **zwei wesentlichen** (definierenden) Eigenschaften: **monochromatisch und kohärent**.\n\n*Klausurfrage 11 · 4 Punkte.*",
+    "image": "img/folie-laser-002.png"
   },
   {
     "id": "laser-003",
@@ -24,7 +26,8 @@
     "priority": "A",
     "type": "open",
     "question": "Nennen Sie die drei Anregungsmechanismen für Licht / LASER.",
-    "answer": "Die drei Anregungsmechanismen für Licht/LASER (VO_5):\n1. **Anregung durch Elektronenstoß** (Stoßanregung)\n2. **Anregung durch Photonenabsorption** (Absorption)\n3. **Stimulierte (induzierte) Emission**\n\n*Achtung: optisch/chemisch/elektrisch sind **Pump-/Energiequellen**, nicht die hier gefragten Anregungsmechanismen.*\n\n*Klausurfrage 12 · 6 Punkte.*"
+    "answer": "Die drei Anregungsmechanismen für Licht/LASER (VO_5):\n1. **Anregung durch Elektronenstoß** (Stoßanregung)\n2. **Anregung durch Photonenabsorption** (Absorption)\n3. **Stimulierte (induzierte) Emission**\n\n*Achtung: optisch/chemisch/elektrisch sind **Pump-/Energiequellen**, nicht die hier gefragten Anregungsmechanismen.*\n\n*Klausurfrage 12 · 6 Punkte.*",
+    "images": ["img/folie-laser-003-1.png", "img/folie-laser-003-2.png", "img/folie-laser-003-3.png"]
   },
   {
     "id": "laser-004",
@@ -33,7 +36,8 @@
     "priority": "A",
     "type": "open",
     "question": "Beschreiben Sie zwei der drei Anregungsmechanismen (Elektronenstoß / Photonenabsorption / stimulierte Emission).",
-    "answer": "Beschreibung von zwei der drei Mechanismen:\n\n**Anregung durch Photonenabsorption:**\nEin Photon passender Energie (hν = Energiedifferenz) wird vom Atom absorbiert; ein Elektron wird von einem niedrigeren auf ein höheres Energieniveau gehoben.\n\n**Stimulierte (induzierte) Emission:**\nEin einfallendes Photon trifft auf ein bereits angeregtes Atom und löst den Übergang auf das niedrigere Niveau aus. Dabei wird ein **zweites Photon** emittiert, das mit dem auslösenden in Wellenlänge, Richtung und Phase **identisch (kohärent)** ist → Lichtverstärkung (Grundprinzip des Lasers).\n\n(**Anregung durch Elektronenstoß:** ein freies Elektron stößt mit dem Atom, überträgt Energie und hebt ein Elektron auf ein höheres Niveau.)\n\n*Klausurfrage 13 · 8 Punkte.*"
+    "answer": "Beschreibung von zwei der drei Mechanismen:\n\n**Anregung durch Photonenabsorption:**\nEin Photon passender Energie (hν = Energiedifferenz) wird vom Atom absorbiert; ein Elektron wird von einem niedrigeren auf ein höheres Energieniveau gehoben.\n\n**Stimulierte (induzierte) Emission:**\nEin einfallendes Photon trifft auf ein bereits angeregtes Atom und löst den Übergang auf das niedrigere Niveau aus. Dabei wird ein **zweites Photon** emittiert, das mit dem auslösenden in Wellenlänge, Richtung und Phase **identisch (kohärent)** ist → Lichtverstärkung (Grundprinzip des Lasers).\n\n(**Anregung durch Elektronenstoß:** ein freies Elektron stößt mit dem Atom, überträgt Energie und hebt ein Elektron auf ein höheres Niveau.)\n\n*Klausurfrage 13 · 8 Punkte.*",
+    "images": ["img/folie-laser-004-1.png", "img/folie-laser-004-2.png"]
   },
   {
     "id": "laser-005",
@@ -52,7 +56,8 @@
     "priority": "A",
     "type": "open",
     "question": "Beschreiben Sie den Unterschied zwischen spontaner und induzierter (stimulierter) Emission.",
-    "answer": "- **Spontane Emission:** erfolgt **ohne äußere Energiezufuhr** – ein angeregtes Teilchen fällt von selbst (zufällig in Zeitpunkt, Richtung und Phase) zurück und emittiert ein Photon.\n- **Induzierte (stimulierte) Emission:** wird **durch ein einfallendes Photon ausgelöst** (Energiezufuhr). Das neue Photon ist mit dem auslösenden **identisch** in Wellenlänge, Richtung und Phase → **kohärente** Lichtverstärkung (Grundprinzip des Lasers).\n\n*Klausurfrage 14 d · 4 Punkte.*"
+    "answer": "- **Spontane Emission:** erfolgt **ohne äußere Energiezufuhr** – ein angeregtes Teilchen fällt von selbst (zufällig in Zeitpunkt, Richtung und Phase) zurück und emittiert ein Photon.\n- **Induzierte (stimulierte) Emission:** wird **durch ein einfallendes Photon ausgelöst** (Energiezufuhr). Das neue Photon ist mit dem auslösenden **identisch** in Wellenlänge, Richtung und Phase → **kohärente** Lichtverstärkung (Grundprinzip des Lasers).\n\n*Klausurfrage 14 d · 4 Punkte.*",
+    "image": "img/folie-laser-006.png"
   },
   {
     "id": "laser-007",
@@ -93,7 +98,8 @@
     "question": "Welcher Laser arbeitet bei einer Wellenlänge von ca. 10 µm (fernes Infrarot)?",
     "options": ["Excimer-Laser", "Argon-Laser", "CO₂-Laser", "Nd:YAG-Laser"],
     "answerIndex": 2,
-    "answer": "Der **CO₂-Laser** emittiert im fernen Infrarot bei **≈ 10,6 µm** – die längste der typischen Laserwellenlängen (vgl. Frage 15)."
+    "answer": "Der **CO₂-Laser** emittiert im fernen Infrarot bei **≈ 10,6 µm** – die längste der typischen Laserwellenlängen (vgl. Frage 15).",
+    "image": "img/folie-laser-010.png"
   },
   {
     "id": "laser-011",
@@ -102,7 +108,8 @@
     "priority": "B",
     "type": "open",
     "question": "Beschreiben Sie das Phänomen Licht und drei wesentliche physikalische Prozesse für das Licht.",
-    "answer": "**Phänomen Licht** (VO_5 „Was ist Licht?“):\n- **Welle-Teilchen-Dualismus:** Licht ist Teilchen **und** Welle zugleich. Das **Photon** (Lichtquant) ist ein masseloses Elementarteilchen; gleichzeitig ist Licht eine **elektromagnetische Welle**.\n- Ausbreitung im Vakuum mit **c ≈ 300 000 km/s** (3·10⁸ m/s), unabhängig vom Bewegungszustand der Quelle.\n- Charakterisiert durch **Wellenlänge, Frequenz, Energie**.\n\n**Drei wesentliche physikalische Prozesse:**\n1. **Reflexion** – Licht wird zurückgeworfen\n2. **Absorption** – Licht wird vom Material aufgenommen\n3. **Brechung (Refraktion)** – Richtungsänderung beim Übergang in ein optisch dichteres/dünneres Medium\n\n*Schwerpunkt 2a.*"
+    "answer": "**Phänomen Licht** (VO_5 „Was ist Licht?“):\n- **Welle-Teilchen-Dualismus:** Licht ist Teilchen **und** Welle zugleich. Das **Photon** (Lichtquant) ist ein masseloses Elementarteilchen; gleichzeitig ist Licht eine **elektromagnetische Welle**.\n- Ausbreitung im Vakuum mit **c ≈ 300 000 km/s** (3·10⁸ m/s), unabhängig vom Bewegungszustand der Quelle.\n- Charakterisiert durch **Wellenlänge, Frequenz, Energie**.\n\n**Drei wesentliche physikalische Prozesse:**\n1. **Reflexion** – Licht wird zurückgeworfen\n2. **Absorption** – Licht wird vom Material aufgenommen\n3. **Brechung (Refraktion)** – Richtungsänderung beim Übergang in ein optisch dichteres/dünneres Medium\n\n*Schwerpunkt 2a.*",
+    "image": "img/folie-laser-011.png"
   },
   {
     "id": "laser-012",
@@ -111,7 +118,8 @@
     "priority": "B",
     "type": "open",
     "question": "Welche Eigenschaften unterscheiden das natürliche Licht vom Laser?",
-    "answer": "Gegenüberstellung (VO_5 „Eigenschaften des Laserlichtes“):\n- **Natürliches/normales Licht:** polychrom (viele Wellenlängen), multidirektional (ungerichtet), inkohärent (keine feste Phasenbeziehung), geringe Intensität.\n- **Laser:** monochrom (eine Wellenlänge), gerichtet/direktional (geringe Divergenz), kohärent (feste Phasenbeziehung), hohe Intensität.\n\n*Schwerpunkt 2b.*"
+    "answer": "Gegenüberstellung (VO_5 „Eigenschaften des Laserlichtes“):\n- **Natürliches/normales Licht:** polychrom (viele Wellenlängen), multidirektional (ungerichtet), inkohärent (keine feste Phasenbeziehung), geringe Intensität.\n- **Laser:** monochrom (eine Wellenlänge), gerichtet/direktional (geringe Divergenz), kohärent (feste Phasenbeziehung), hohe Intensität.\n\n*Schwerpunkt 2b.*",
+    "image": "img/folie-laser-012.png"
   },
   {
     "id": "laser-013",
@@ -120,7 +128,8 @@
     "priority": "B",
     "type": "open",
     "question": "Welche Lasertypen gibt es? (Einteilung nach aktivem Medium)",
-    "answer": "Einteilung nach **aktivem Medium** (VO_5):\n- **Gaslaser:** CO₂ (10,6 µm), Excimer (UV), Helium-Neon (633 nm), Argon (514/488 nm)\n- **Festkörperlaser:** Nd:YAG (1064 nm), Rubin (694 nm), Yb:YAG (≈ 1030/1070 nm), Er:YAG (≈ 2940 nm), Alexandrit (755 nm)\n- **Halbleiter-/Diodenlaser** (≈ 600–2200 nm)\n- **Faserlaser** sowie **Stab-/Scheibenlaser** (Bauformen des Festkörperlasers)\n- **Farbstofflaser** (flüssiges Medium)\n\nZusätzlich nach **Betriebsweise:** Dauerstrich (cw) vs. gepulst / Ultrakurzpuls (UKP).\n\n*Schwerpunkt 2d.*"
+    "answer": "Einteilung nach **aktivem Medium** (VO_5):\n- **Gaslaser:** CO₂ (10,6 µm), Excimer (UV), Helium-Neon (633 nm), Argon (514/488 nm)\n- **Festkörperlaser:** Nd:YAG (1064 nm), Rubin (694 nm), Yb:YAG (≈ 1030/1070 nm), Er:YAG (≈ 2940 nm), Alexandrit (755 nm)\n- **Halbleiter-/Diodenlaser** (≈ 600–2200 nm)\n- **Faserlaser** sowie **Stab-/Scheibenlaser** (Bauformen des Festkörperlasers)\n- **Farbstofflaser** (flüssiges Medium)\n\nZusätzlich nach **Betriebsweise:** Dauerstrich (cw) vs. gepulst / Ultrakurzpuls (UKP).\n\n*Schwerpunkt 2d.*",
+    "image": "img/folie-laser-013.png"
   },
   {
     "id": "laser-014",
@@ -129,7 +138,8 @@
     "priority": "B",
     "type": "open",
     "question": "Welche Strahleigenschaften hat der Laser und wie sind die physikalischen Zusammenhänge?",
-    "answer": "**Strahleigenschaften** (VO_5):\n- **Wellenlänge λ**, **Frequenz f**, **Energie E**\n- Leistung/Intensität, Strahlqualität (M²), Divergenz, Polarisation, Betriebsweise\n\n**Physikalische Zusammenhänge:**\n- **c = λ · f**  (c ≈ 3·10⁸ m/s)\n- **E = h · f = h · c / λ**  (h = Plancksches Wirkungsquantum)\n- → **kurze Wellenlänge = hohe Frequenz = hohe Photonenenergie**\n\n*Schwerpunkt 2e.*"
+    "answer": "**Strahleigenschaften** (VO_5):\n- **Wellenlänge λ**, **Frequenz f**, **Energie E**\n- Leistung/Intensität, Strahlqualität (M²), Divergenz, Polarisation, Betriebsweise\n\n**Physikalische Zusammenhänge:**\n- **c = λ · f**  (c ≈ 3·10⁸ m/s)\n- **E = h · f = h · c / λ**  (h = Plancksches Wirkungsquantum)\n- → **kurze Wellenlänge = hohe Frequenz = hohe Photonenenergie**\n\n*Schwerpunkt 2e.*",
+    "image": "img/folie-laser-014.png"
   },
   {
     "id": "laser-015",
@@ -138,6 +148,7 @@
     "priority": "B",
     "type": "open",
     "question": "Welche Bedeutung haben UKP-Laser (Ultrakurzpuls) für die Materialbearbeitung?",
-    "answer": "**UKP = Ultrakurzpuls** (Pulsdauern im ps-/fs-Bereich). Bedeutung für die Materialbearbeitung (VO_5 „Gepulste vs. Dauerstrich“):\n- **Reduzierte/minimale Wärmeeinflusszone** → „kalte“/athermische Ablation, kaum thermische Schädigung des Umfelds (kein Aufschmelzen)\n- **Schnell und präzise steuerbar** → hohe Präzision/Auflösung\n- **Sehr hohe Spitzenintensitäten** (> 10¹⁰ W/cm²) → nahezu jedes Material bearbeitbar (auch harte/transparente Werkstoffe, nichtlineare Absorption)\n\n*Schwerpunkt 2i.*"
+    "answer": "**UKP = Ultrakurzpuls** (Pulsdauern im ps-/fs-Bereich). Bedeutung für die Materialbearbeitung (VO_5 „Gepulste vs. Dauerstrich“):\n- **Reduzierte/minimale Wärmeeinflusszone** → „kalte“/athermische Ablation, kaum thermische Schädigung des Umfelds (kein Aufschmelzen)\n- **Schnell und präzise steuerbar** → hohe Präzision/Auflösung\n- **Sehr hohe Spitzenintensitäten** (> 10¹⁰ W/cm²) → nahezu jedes Material bearbeitbar (auch harte/transparente Werkstoffe, nichtlineare Absorption)\n\n*Schwerpunkt 2i.*",
+    "image": "img/folie-laser-015.png"
   }
 ]

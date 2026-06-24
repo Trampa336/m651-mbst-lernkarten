@@ -6,7 +6,8 @@
     "priority": "A",
     "type": "open",
     "question": "Welche Wirkung kann Laserstrahlung haben?",
-    "answer": "Laserstrahlung kann:\n- **Hautschäden** verursachen\n- **Augenschäden** verursachen\n- **Gegenstände entflammen** (Brandgefahr)\n\n*Im Original eine Mehrfachauswahl – alle drei Wirkungen treffen zu.*\n\n*Klausurfrage 18 · 1 Punkt.*"
+    "answer": "Laserstrahlung kann:\n- **Hautschäden** verursachen\n- **Augenschäden** verursachen\n- **Gegenstände entflammen** (Brandgefahr)\n\n*Im Original eine Mehrfachauswahl – alle drei Wirkungen treffen zu.*\n\n*Klausurfrage 18 · 1 Punkt.*",
+    "image": "img/folie-schutz-001.png"
   },
   {
     "id": "schutz-002",
@@ -17,7 +18,8 @@
     "question": "Welche biologische Wirkung hat Laserstrahlung?",
     "options": ["Haarausfall", "Asthma", "Haut- und Augenschäden"],
     "answerIndex": 2,
-    "answer": "**Haut- und Augenschäden** – das sind die biologischen Wirkungen von Laserstrahlung auf den Menschen.\n\n*Klausurfrage 19 · 1 Punkt.*"
+    "answer": "**Haut- und Augenschäden** – das sind die biologischen Wirkungen von Laserstrahlung auf den Menschen.\n\n*Klausurfrage 19 · 1 Punkt.*",
+    "image": "img/folie-schutz-002.png"
   },
   {
     "id": "schutz-003",
@@ -28,6 +30,7 @@
     "question": "Welche Laserstrahlung ist potenziell gefährlich für den menschlichen Organismus?",
     "options": ["Nur direkte Strahlung", "Laserstrahlung ist ungefährlich", "Direkt, reflektierte und Streustrahlung können gefährlich sein"],
     "answerIndex": 2,
-    "answer": "**Direkte, reflektierte und Streustrahlung** können gefährlich sein – nicht nur der direkte Strahl, sondern auch Reflexionen und Streulicht.\n\n*Klausurfrage 20 · 1 Punkt.*"
+    "answer": "**Direkte, reflektierte und Streustrahlung** können gefährlich sein – nicht nur der direkte Strahl, sondern auch Reflexionen und Streulicht.\n\n*Klausurfrage 20 · 1 Punkt.*",
+    "image": "img/folie-schutz-003.png"
   }
 ]

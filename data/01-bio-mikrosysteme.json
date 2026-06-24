@@ -6,7 +6,8 @@
     "priority": "A",
     "type": "open",
     "question": "Nennen Sie Beispiele für die Größenordnung Mikrometer (µm).",
-    "answer": "Typische Objekte im µm-Bereich:\n- **Menschliches Haar** (≈ 50–70 µm Durchmesser)\n- **Menschliche (Haut-)Zellen** (≈ 10–30 µm)\n\nWeitere mögliche Beispiele: rote Blutkörperchen (≈ 7 µm), Bakterien (≈ 1–5 µm), Nebeltröpfchen.\n\n*Klausurfrage 1 · 2 Punkte.*"
+    "answer": "Typische Objekte im µm-Bereich:\n- **Menschliches Haar** (≈ 50–70 µm Durchmesser)\n- **Menschliche (Haut-)Zellen** (≈ 10–30 µm)\n\nWeitere mögliche Beispiele: rote Blutkörperchen (≈ 7 µm), Bakterien (≈ 1–5 µm), Nebeltröpfchen.\n\n*Klausurfrage 1 · 2 Punkte.*",
+    "image": "img/folie-bio-001.png"
   },
   {
     "id": "bio-002",
@@ -15,7 +16,8 @@
     "priority": "A",
     "type": "open",
     "question": "Nennen Sie mindestens 3 Motivationen für die Entwicklung von mikrophysiologischen Systemen (MPS).",
-    "answer": "Motivationen für die Entwicklung von MPS (VO_4 „Motivation“ / „Fields of application“):\n- **Ersatz von Tierversuchen** (tierversuchsfreie Substanztestung)\n- **Systemische Substanz-/Toxizitätstests** – die meisten Vergiftungen wirken systemisch\n- **Prädiktive Substanztestung** durch das Zusammenspiel verschiedener Zellen/Gewebe in einem **gemeinsamen Kreislauf analog zum menschlichen Körper** (Zell-Zell- bzw. Organ-Organ-Wechselwirkung)\n- **ADME(T)-Tests** und Untersuchung von **Wirkmechanismen**\n- **Personalisierte Medizin** (z. B. Tumor- und Autoimmunerkrankungen), Grundlagenforschung\n\n*Klausurfrage 2 · 6 Punkte.*"
+    "answer": "Motivationen für die Entwicklung von MPS (VO_4 „Motivation“ / „Fields of application“):\n- **Ersatz von Tierversuchen** (tierversuchsfreie Substanztestung)\n- **Systemische Substanz-/Toxizitätstests** – die meisten Vergiftungen wirken systemisch\n- **Prädiktive Substanztestung** durch das Zusammenspiel verschiedener Zellen/Gewebe in einem **gemeinsamen Kreislauf analog zum menschlichen Körper** (Zell-Zell- bzw. Organ-Organ-Wechselwirkung)\n- **ADME(T)-Tests** und Untersuchung von **Wirkmechanismen**\n- **Personalisierte Medizin** (z. B. Tumor- und Autoimmunerkrankungen), Grundlagenforschung\n\n*Klausurfrage 2 · 6 Punkte.*",
+    "image": "img/folie-bio-002.png"
   },
   {
     "id": "bio-003",
@@ -24,7 +26,8 @@
     "priority": "A",
     "type": "open",
     "question": "Welche Anforderungen bestehen an mikrophysiologische Systeme?",
-    "answer": "Anforderungen an MPS (VO_4 „Requirements“):\n- **Geschlossenes Mikrozirkulationssystem**\n- **Geringes Medium-zu-Zell-Verhältnis** (geringe Verdünnung von Botenstoffen)\n- **Pulsierender Fluss im physiologischen Bereich**\n- **Biokompatibel**\n- **Online überwachbar** (kompatibel mit etablierter Laborausrüstung)\n\n*Klausurfrage 3 · 4 Punkte.*"
+    "answer": "Anforderungen an MPS (VO_4 „Requirements“):\n- **Geschlossenes Mikrozirkulationssystem**\n- **Geringes Medium-zu-Zell-Verhältnis** (geringe Verdünnung von Botenstoffen)\n- **Pulsierender Fluss im physiologischen Bereich**\n- **Biokompatibel**\n- **Online überwachbar** (kompatibel mit etablierter Laborausrüstung)\n\n*Klausurfrage 3 · 4 Punkte.*",
+    "image": "img/folie-bio-003.png"
   },
   {
     "id": "bio-004",
@@ -33,7 +36,8 @@
     "priority": "A",
     "type": "open",
     "question": "Für die Herstellung von Mikrosystemen wird eine Technologiekette (Konzept–Design–Simulation–Konstruktion–Prototyping) eingesetzt. Ergänzen Sie die vier Herstellungsverfahren mit je mind. 3 Technologien.",
-    "answer": "Geschlossene Technologiekette für Mikro- und Biosysteme (VO_4):\nKonzept → Design → Simulation → Konstruktion → …\n\n**1. Rapid Tooling / Replication (Abformung)**\n- Abformen (Moulding)\n- Heißprägen (Hot stamping)\n- Spritzguss (Injection moulding)\n\n**2. Mikrostrukturierung**\n- Laserschneiden (Laser cutting)\n- Laserbohren (Laser drilling)\n- Laser-Mikrostrukturierung (Laser-µ-structuring)\n\n**3. Additive Verfahren (Additive manufacturing)**\n- 3D-Druck (3D printing)\n- Lasersintern (Laser sintering)\n- Polymerisation (Polymerization)\n\n**4. Mechanische Prozesse (Mechanical processing)**\n- CNC-Fräsen (CNC milling)\n- Erodieren (Eroding)\n- Polieren (Polishing)\n\nErgänzend in der Kette: **Konstruktion & Montage** (Laminieren, Schweißen, Kleben, 3D-Druck funktioneller Nano-Tinten) und **Test & Charakterisierung** (Mikroskopie, Zugversuch; Dichtheit, Particle Image Velocimetry).\n\n*Klausurfrage 4 · 9 Punkte (mind. 3 je Verfahren).*"
+    "answer": "Geschlossene Technologiekette für Mikro- und Biosysteme (VO_4):\nKonzept → Design → Simulation → Konstruktion → …\n\n**1. Rapid Tooling / Replication (Abformung)**\n- Abformen (Moulding)\n- Heißprägen (Hot stamping)\n- Spritzguss (Injection moulding)\n\n**2. Mikrostrukturierung**\n- Laserschneiden (Laser cutting)\n- Laserbohren (Laser drilling)\n- Laser-Mikrostrukturierung (Laser-µ-structuring)\n\n**3. Additive Verfahren (Additive manufacturing)**\n- 3D-Druck (3D printing)\n- Lasersintern (Laser sintering)\n- Polymerisation (Polymerization)\n\n**4. Mechanische Prozesse (Mechanical processing)**\n- CNC-Fräsen (CNC milling)\n- Erodieren (Eroding)\n- Polieren (Polishing)\n\nErgänzend in der Kette: **Konstruktion & Montage** (Laminieren, Schweißen, Kleben, 3D-Druck funktioneller Nano-Tinten) und **Test & Charakterisierung** (Mikroskopie, Zugversuch; Dichtheit, Particle Image Velocimetry).\n\n*Klausurfrage 4 · 9 Punkte (mind. 3 je Verfahren).*",
+    "image": "img/folie-bio-004.png"
   },
   {
     "id": "bio-005",
@@ -74,7 +78,8 @@
     "priority": "B",
     "type": "open",
     "question": "Welche Vor- und ggf. Nachteile haben mikrophysiologische Systeme (MPS)?",
-    "answer": "**Vorteile** (VO_4/VO_8 „Benefits“):\n- Miniaturisierung; geringerer Material-/Reagenzienverbrauch\n- Geringes Medium-zu-Zell-Verhältnis → keine Verdünnung von Botenstoffen\n- Geschlossenes Mikrozirkulationssystem mit integrierten Mikropumpen\n- Pulsierender Fluss im physiologischen Bereich\n- Automatisierung/Parallelisierung, höherer Durchsatz, weniger Personalaufwand\n- Online-überwachbar (kompatibel mit etablierter Ausrüstung)\n- Hohe Flexibilität / kundenspezifisches Design; Losgröße 1 bis Massenproduktion; kurze Lieferzeiten (≈ 5 Arbeitstage)\n- Ersatz von Tierversuchen; bildet Zell-Zell-/Organ-Organ-Wechselwirkungen ab\n\n**Nachteile** (in den Folien nicht explizit genannt – allgemein bekannte Grenzen):\n- Aufwändige, mehrstufige Herstellungs-/Technologiekette\n- Kleine Zellzahlen/Volumina → anspruchsvolle Analytik\n- Standardisierung, Reproduzierbarkeit und Validierung noch herausfordernd\n- Bildet keinen vollständigen Organismus ab (nur ausgewählte Organe/Funktionen)\n\n*Schwerpunkt 1b.*"
+    "answer": "**Vorteile** (VO_4/VO_8 „Benefits“):\n- Miniaturisierung; geringerer Material-/Reagenzienverbrauch\n- Geringes Medium-zu-Zell-Verhältnis → keine Verdünnung von Botenstoffen\n- Geschlossenes Mikrozirkulationssystem mit integrierten Mikropumpen\n- Pulsierender Fluss im physiologischen Bereich\n- Automatisierung/Parallelisierung, höherer Durchsatz, weniger Personalaufwand\n- Online-überwachbar (kompatibel mit etablierter Ausrüstung)\n- Hohe Flexibilität / kundenspezifisches Design; Losgröße 1 bis Massenproduktion; kurze Lieferzeiten (≈ 5 Arbeitstage)\n- Ersatz von Tierversuchen; bildet Zell-Zell-/Organ-Organ-Wechselwirkungen ab\n\n**Nachteile** (in den Folien nicht explizit genannt – allgemein bekannte Grenzen):\n- Aufwändige, mehrstufige Herstellungs-/Technologiekette\n- Kleine Zellzahlen/Volumina → anspruchsvolle Analytik\n- Standardisierung, Reproduzierbarkeit und Validierung noch herausfordernd\n- Bildet keinen vollständigen Organismus ab (nur ausgewählte Organe/Funktionen)\n\n*Schwerpunkt 1b.*",
+    "image": "img/folie-bio-008.png"
   },
   {
     "id": "bio-009",
@@ -83,7 +88,8 @@
     "priority": "B",
     "type": "open",
     "question": "Welche Komponenten können in ein MPS / eine Lab-on-a-Chip-Plattform integriert werden?",
-    "answer": "Integrierbare Komponenten (VO_4 „Sensor/Membrane/Oxygenator integration“, „Interfaces“):\n- **Sensoren** (Dünn-/Dickschicht): O₂, TEER, MEA – via Laminieren/Bonden\n- **Membranen:** Oxygenator, Dialysator, Barriere\n- **Oxygenator:** gasdurchlässige Membran (Oxygenierung, Hypoxie)\n- **Scaffolds / Interfaces:** gegossen/vorgeformt, Microwell-basiert, 3D-gedruckt\n- **Grundkomponenten:** (peristaltische) Pumpe, Ventile, Reservoir, Zellkulturmodul\n\n*Schwerpunkt 1f.*"
+    "answer": "Integrierbare Komponenten (VO_4 „Sensor/Membrane/Oxygenator integration“, „Interfaces“):\n- **Sensoren** (Dünn-/Dickschicht): O₂, TEER, MEA – via Laminieren/Bonden\n- **Membranen:** Oxygenator, Dialysator, Barriere\n- **Oxygenator:** gasdurchlässige Membran (Oxygenierung, Hypoxie)\n- **Scaffolds / Interfaces:** gegossen/vorgeformt, Microwell-basiert, 3D-gedruckt\n- **Grundkomponenten:** (peristaltische) Pumpe, Ventile, Reservoir, Zellkulturmodul\n\n*Schwerpunkt 1f.*",
+    "images": ["img/folie-bio-009-1.png", "img/folie-bio-009-2.png"]
   },
   {
     "id": "bio-010",
@@ -92,6 +98,7 @@
     "priority": "B",
     "type": "open",
     "question": "Welche Prozesse/Bedingungen kann ein MPS emulieren – und mit welchen Technologien?",
-    "answer": "**Was ein MPS emulieren soll** (VO_8 „Basics of microphysiology“) → **Technologie:**\n- **Temperatur** → Inkubator / integrierte Heizung\n- **Mechanische Kräfte** (z. B. Scherspannung) → Mikropumpe & Dämpfer\n- **Zell-zu-Volumen-Verhältnis** → integrierte Pumpe & Ventile\n- **Sauerstoffgehalt** → integrierter Oxygenator\n- **Extrazelluläre Matrix** → unterschiedlich geformte Zellkulturkammern\n\n*Schwerpunkt 1g.*"
+    "answer": "**Was ein MPS emulieren soll** (VO_8 „Basics of microphysiology“) → **Technologie:**\n- **Temperatur** → Inkubator / integrierte Heizung\n- **Mechanische Kräfte** (z. B. Scherspannung) → Mikropumpe & Dämpfer\n- **Zell-zu-Volumen-Verhältnis** → integrierte Pumpe & Ventile\n- **Sauerstoffgehalt** → integrierter Oxygenator\n- **Extrazelluläre Matrix** → unterschiedlich geformte Zellkulturkammern\n\n*Schwerpunkt 1g.*",
+    "images": ["img/folie-bio-010-1.png", "img/folie-bio-010-2.png"]
   }
 ]

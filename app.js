@@ -174,9 +174,21 @@ function render() {
   const ans = document.getElementById("card-answer");
   ans.hidden = true;
   document.getElementById("card-answer-text").innerHTML = renderMarkup(card.answer || "");
-  const img = document.getElementById("card-answer-img");
-  if (card.image) { img.src = card.image; img.hidden = false; }
-  else { img.hidden = true; img.removeAttribute("src"); }
+  const imgBox = document.getElementById("card-answer-images");
+  imgBox.innerHTML = "";
+  const imgs = Array.isArray(card.images) ? card.images : (card.image ? [card.image] : []);
+  if (imgs.length) {
+    imgs.forEach((src, i) => {
+      const im = document.createElement("img");
+      im.src = src;
+      im.alt = "Folie " + (i + 1) + " zur Antwort";
+      im.loading = "lazy";
+      imgBox.appendChild(im);
+    });
+    imgBox.hidden = false;
+  } else {
+    imgBox.hidden = true;
+  }
 
   document.getElementById("btn-reveal").hidden = false;
   document.getElementById("rate-buttons").hidden = true;
