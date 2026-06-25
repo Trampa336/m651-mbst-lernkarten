@@ -150,24 +150,5 @@
     "question": "Welche Bedeutung haben UKP-Laser (Ultrakurzpuls) für die Materialbearbeitung?",
     "answer": "**UKP = Ultrakurzpuls** (Pulsdauern im ps-/fs-Bereich). Bedeutung für die Materialbearbeitung (VO_5 „Gepulste vs. Dauerstrich“):\n- **Reduzierte/minimale Wärmeeinflusszone** → „kalte“/athermische Ablation, kaum thermische Schädigung des Umfelds (kein Aufschmelzen)\n- **Schnell und präzise steuerbar** → hohe Präzision/Auflösung\n- **Sehr hohe Spitzenintensitäten** (> 10¹⁰ W/cm²) → nahezu jedes Material bearbeitbar (auch harte/transparente Werkstoffe, nichtlineare Absorption)\n\n*Schwerpunkt 2i.*",
     "image": "img/folie-laser-015.png"
-  },
-  {
-    "id": "laser-016",
-    "topic": "Laser",
-    "subtopic": "Phänomen Licht",
-    "priority": "B",
-    "type": "flashcard",
-    "question": "Was ist Licht?",
-    "answer": "**Licht** ist der für das menschliche Auge sichtbare Teil der **elektromagnetischen Strahlung** (Wellenlänge ≈ **380–780 nm**).\n\n**Welle-Teilchen-Dualismus:**\n- Licht verhält sich zugleich als **elektromagnetische Welle** (Beugung, Interferenz, Polarisation) und als **Teilchenstrom aus Photonen** (Lichtquanten, masselos).\n\n**Wesentliche Größen:**\n- **Wellenlänge λ**, **Frequenz f**, **Photonenenergie E**\n- **c = λ · f**  (Lichtgeschwindigkeit im Vakuum **c ≈ 3·10⁸ m/s ≈ 300 000 km/s**)\n- **E = h · f = h · c / λ**  (h = Plancksches Wirkungsquantum) → kurze Wellenlänge = hohe Frequenz = hohe Energie\n\nDer Übergang von „normalem“ Licht (polychrom, ungerichtet, inkohärent) zum **Laser** (monochrom, gerichtet, kohärent) wird über die stimulierte Emission erreicht.\n\n*VO_5 „Was ist Licht?“ · Schwerpunkt 2a.*"
-  },
-  {
-    "id": "laser-017",
-    "topic": "Laser",
-    "subtopic": "Eigenschaften",
-    "priority": "A",
-    "type": "open",
-    "question": "Welche Eigenschaften machen Laserlicht aus?",
-    "answer": "Eigenschaften des Laserlichtes (VO_5) – jeweils im Gegensatz zum „normalen“ Licht:\n- **Monochromatisch** – nur **eine Wellenlänge/Farbe** (Licht ist polychrom)\n- **Kohärent** – **feste Phasenbeziehung** (zeitlich & räumlich); Licht ist inkohärent\n- **Gerichtet/direktional** – **geringe Divergenz**, gut bündel- und fokussierbar (Licht ist multidirektional)\n- **Hohe Intensität/Energiedichte** – durch die Bündelung sehr hohe Leistung pro Fläche (Licht hat geringe Intensität)\n\nDie **zwei definierenden (wesentlichen)** Eigenschaften sind **monochromatisch** und **kohärent** – sie entstehen durch die **stimulierte Emission** im Resonator.\n\n*Vgl. Klausurfrage 11 · Schwerpunkt 2b.*",
-    "image": "img/folie-laser-002.png"
   }
 ]
